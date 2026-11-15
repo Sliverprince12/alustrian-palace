@@ -1,0 +1,13 @@
+Reservation number,Booker name,Check-in,Check-out,Price,Commission %,Commission amount,Status
+4103814219,James Smith,04 September 2026,09 September 2026,USD 1 203.42,17%,,ok
+4103814256,Emma Forbes,04 September 2026,09 September 2026,USD 0,17%,0.00,cancelled_by_guest
+4103894065,Lucas Brown,04 September 2026,08 September 2026,USD 1 671.52,17%,284.16,ok
+4103894102,Chloe Hughes,04 September 2026,08 September 2026,USD 0,17%,0.00,cancelled_by_guest
+4103724087,Daniel Williams,06 September 2026,14 September 2026,USD 2 024.84,17%,,ok
+4103724124,Sophie Reid,06 September 2026,14 September 2026,USD 0,17%,0.00,cancelled_by_guest
+4103945384,Tom Thompson,07 September 2026,09 September 2026,USD 876.28,17%,148.97,ok
+4103797347,Olivia Scott,10 September 2026,12 September 2026,USD 479.19,17%,81.46,ok
+4103832497,Noah Roberts,12 September 2026,14 September 2026,USD 606.93,17%,,ok
+4103832534,Mia King,12 September 2026,14 September 2026,USD 0,17%,0.00,cancelled_by_guest
+4103749210,Marcus Campbell,13 September 2026,16 September 2026,USD 644.56,17%,109.58,ok
+4103858952,Grace Johnson,15 September 2026,18 September 2026,USD 1 026.89,17%,174.57,ok

@@ -1,0 +1,21 @@
+Conf#,Guest Name,Arr Date,Nts,Rm Type,Rate,Src,Status,Notes
+AP102881,James Smith,09/01/2026,4 nts,GDN,$278.81,WEB,CO,
+AP104772,"MARTIN, O.",2026-09-01,7,ocean vw,$340.24,Wholesale-HB,CO,VIP - honeymoon
+AP106631,Liam Bennett,01 Sep 26,2,SUITE,$452.83,T/A,CO,late arr
+AP102630,"JOHNSON, E.",09/02/2026,5,GDN,$281.35,EXP,CO,
+AP105243,Noah Roberts,2026-09-02,1,ocean vw,$417.92,Website,CO,pd dep 50%
+AP105243,Noah Roberts,2026-09-02,1,ocean vw,$417.92,Website,CO,pd dep 50%
+AP105244,"REID, A.",02 Sep 26,1 nts,OV-KING,$0.00,direct,NS,
+AP103577,Lucas Brown,09/03/2026,1,OVK,$375.15,EXP,CO,
+AP103578,"WALKER, M.",2026-09-03,1,ocean vw,$0.00,Expedia Collect,CXL,VIP - honeymoon
+,,,,,,,,
+AP105943,Ethan Lewis,03 Sep 26,3,OV-KING,$390.16,AirBnB,CO,late arr
+AP108661,"TAYLOR, C.",09/03/2026,7,VIL,$838.57,WEB,CO,
+AP102193,Marcus Campbell,2026-09-04,3 nts,Gdn View,$209.13,Expedia Collect,CO,pd dep 50%
+AP102194,"SCOTT, A.",04 Sep 26,3,GV,$0.00,EXPEDIA,NS,
+AP103087,Daniel Williams,09/04/2026,5,GDN,$240.68,BKG.COM,CO,
+AP103088,"FORBES, G.",2026-09-04,5,Gdn View,$0.00,booking.com,CXL,VIP - honeymoon
+AP104057,Andre Young,04 Sep 26,6,OV-KING,$365.25,EXPEDIA,CO,late arr
+AP104058,"CLARKE, S.",09/04/2026,6 nts,OVK,$0.00,EXP,CXL,
+AP105245,Jamal Greene,2026-09-04,4,ocean vw,$417.88,booking.com,CO,pd dep 50%
+AP105246,"KING, P.",04 Sep 26,4,OV-KING,$0.00,BDC,CXL,

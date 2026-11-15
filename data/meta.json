@@ -1,0 +1,31 @@
+{
+  "as_of": "2026-11-14",
+  "data_start": "2023-11-01",
+  "seed": 20261115,
+  "properties": {
+    "Alustrian Palace": {
+      "location": "Grace Bay, Providenciales, Turks & Caicos",
+      "rooms": {
+        "Garden View": 14,
+        "Ocean View": 14,
+        "Suite": 8,
+        "Villa": 4
+      }
+    },
+    "Alustrian Villas": {
+      "location": "Mullins Bay, St Peter, Barbados (fictional sister villa property)",
+      "rooms": {
+        "Suite": 2,
+        "Villa": 8
+      }
+    }
+  },
+  "commission_rates": {
+    "Direct website": 0.07,
+    "Booking.com": 0.17,
+    "Expedia": 0.18,
+    "Airbnb": 0.155,
+    "Travel agents/wholesalers": 0.25,
+    "Walk-in": 0.0
+  }
+}
